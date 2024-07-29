@@ -6,7 +6,6 @@ haproxy
 caddy
 hitch
 mongo
-docker
 busybox
 busybox:1.35.0
 busybox:1.35
