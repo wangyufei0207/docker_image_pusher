@@ -87,9 +87,6 @@ nginx:1.18.0
 nginx:1.16.1
 nginx:1.14.2
 nginx:1.12.2
-nginx:1.10.3
-nginx:1.8.1
-nginx:1.6.3
 centos:centos7
 centos:7
 centos:centos8
