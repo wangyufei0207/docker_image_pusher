@@ -122,3 +122,4 @@ mongo:5
 mongo:7.0
 mongo:6.0
 node:16.17
+node:16.17.0
